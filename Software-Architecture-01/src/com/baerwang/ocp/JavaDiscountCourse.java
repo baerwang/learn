@@ -1,4 +1,4 @@
-package com.baerwang.openingclosing;
+package com.baerwang.ocp;
 
 /**
  * @author baerwang

@@ -1,4 +1,4 @@
-package com.baerwang.openingclosing;
+package com.baerwang.ocp;
 
 /**
  * 开闭原则（Open-Close Principle OCP）

@@ -1,4 +1,4 @@
-package com.baerwang.dependencyinversion;
+package com.baerwang.dip;
 
 /**
  * 依赖倒置原则（Dependence Inversion Principle DIP）

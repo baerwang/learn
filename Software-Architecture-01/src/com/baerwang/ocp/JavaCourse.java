@@ -1,4 +1,4 @@
-package com.baerwang.openingclosing;
+package com.baerwang.ocp;
 
 /**
  * 课程生态(Java)

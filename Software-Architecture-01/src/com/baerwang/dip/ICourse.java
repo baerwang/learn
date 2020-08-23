@@ -1,4 +1,4 @@
-package com.baerwang.dependencyinversion;
+package com.baerwang.dip;
 
 /**
  * @author baerwang
