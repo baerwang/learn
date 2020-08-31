@@ -1,4 +1,4 @@
-package com.baerwang.sfp;
+package com.baerwang.simplefactory;
 
 /**
  * @author baerwang

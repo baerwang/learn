@@ -1,4 +1,4 @@
-package com.baerwang.sfp;
+package com.baerwang.simplefactory;
 
 /**
  * 简单工厂模式（Simple Factory Pattern)
