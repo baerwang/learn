@@ -1,4 +1,4 @@
-package com.baerwang.Abastractfactory;
+package com.baerwang.abastractfactory;
 
 /**
  * 抽象工厂模式（Abastract Factory Pattern）

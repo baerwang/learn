@@ -1,4 +1,4 @@
-package com.baerwang.Abastractfactory;
+package com.baerwang.abastractfactory;
 
 /**
  * @author baerwang
