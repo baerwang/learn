@@ -5,7 +5,6 @@ import com.baerwang.template.entity.Member;
 import com.baerwang.template.jdbc.JdbcTemplate;
 
 import javax.sql.DataSource;
-import java.sql.ResultSet;
 import java.util.List;
 
 /**
