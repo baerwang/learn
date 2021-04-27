@@ -1,1 +1,1 @@
-Learning architect
+learn-java and architect
